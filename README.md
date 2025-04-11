@@ -11,7 +11,6 @@
  <p align="center">
  <a href="#deployed-version">Demo</a> •
   <a href="#key-features">Key Features</a> •
-  <a href="#demonstration">Demonstration</a> •
   <a href="#update-your-profile">Update your profile</a> •
   <a href="#api-usage">API Usage</a> •
   <a href="#deployment">Deployment</a> •
@@ -36,10 +35,6 @@ Live demo (Feel free to visit) 👉 : https://natours-xbsh.onrender.com/
 - User profile
   - Update username, profile photo, email, and password
 - Credit card payment using Stripe
-
-## Demonstration
-
-[![Natours Walkthrough](https://img.youtube.com/vi/UljiMtXeFx0/maxresdefault.jpg)](https://www.youtube.com/watch?v=UljiMtXeFx0)
 
 ## How To Use
 
